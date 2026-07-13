@@ -1,4 +1,4 @@
-# ValvutuboV1 — Institutional Website
+# Valvutubo — Institutional Website
 
 <h3 align="center">
   A modern responsive institutional website for Valvutubos, built with HTML, CSS and JavaScript.
@@ -19,13 +19,13 @@
 
 ## About the Project
 
-**ValvutuboV1** is a static institutional website for **Valvutubos Comércio de Produtos Hidráulicos LTDA**, focused on presenting the company, its product mix and its commercial service for companies, industries and agribusiness.
+**Valvutubo** is a static institutional website for **Valvutubos Comércio de Produtos Hidráulicos LTDA**, focused on presenting the company, its product mix and its commercial service for companies, industries and agribusiness.
 
 The site was built with **HTML5**, **CSS3** and **vanilla JavaScript**, with semantic content, responsive sections, SEO metadata, structured data, product cards, partner area, contact information and WhatsApp quote buttons.
 
 ### Descrição em Português
 
-O **ValvutuboV1** é um site institucional moderno para a Valvutubos, empresa de produtos hidráulicos localizada em Joinville/SC. O projeto apresenta a empresa, catálogo de produtos, segmentos atendidos, diferenciais, parceiros e canais de contato, com foco em compras empresariais, indústria, obras, manutenção e agronegócio.
+O **Valvutubo** é um site institucional moderno para a Valvutubos, empresa de produtos hidráulicos localizada em Joinville/SC. O projeto apresenta a empresa, catálogo de produtos, segmentos atendidos, diferenciais, parceiros e canais de contato, com foco em compras empresariais, indústria, obras, manutenção e agronegócio.
 
 ---
 
@@ -270,22 +270,6 @@ The JavaScript file handles:
 - mobile menu open/close
 - closing the menu after navigation click
 - current year in footer when a `[data-year]` element exists
-
----
-
-## QA Checklist
-
-| Scenario | Expected Result |
-|---|---|
-| Open `index.html` | Website loads correctly |
-| Click menu links | Page scrolls to the selected section |
-| Resize to mobile | Layout stacks correctly without horizontal overflow |
-| Open mobile menu | Navigation appears and closes after click |
-| Check product cards | Images remain responsive and not stretched |
-| Check about section | Image adapts to the available space |
-| Click WhatsApp CTA | Opens `wa.me/554791876753` with quote message |
-| Scroll down | Back-to-top button appears |
-| Click back-to-top | Page returns to the top |
 
 ---
 
