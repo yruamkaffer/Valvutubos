@@ -431,9 +431,11 @@ h3 {
 }
 
 .about-media {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
   min-width: 0;
-  align-self: stretch;
-  aspect-ratio: 5 / 4;
+  aspect-ratio: 4 / 3;
   overflow: hidden;
   border-radius: 8px;
   box-shadow: var(--shadow);
